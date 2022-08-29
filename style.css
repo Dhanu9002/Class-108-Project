@@ -1,0 +1,23 @@
+body{
+    font-family: 'Raleway', sans-serif;
+    background: paleturquoise;
+    background-image: linear-gradient(to right top, #8aff90, #91fffb, #9be3ff, #f8adff, #ffb5e6);
+    color: blueviolet;
+}
+.style{
+    background: whitesmoke;
+    color: black;
+}
+.design button{
+    margin-top: 10px;
+    width: 90px;
+    font-weight: bold;
+}
+.copyright_footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(70, 170, 17);
+    font-size: 20px;
+}
